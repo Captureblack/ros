@@ -1,0 +1,8 @@
+prefix=/home/jetbot/workspace/catkin_ws/devel
+
+Name: jetbot_cam
+Description: Description of jetbot_cam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

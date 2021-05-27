@@ -1,0 +1,5 @@
+catkin_ws/src/collision_avoidance/src/best_model.pth
+catkin_ws/src/object_following/src/ssd_mobilenet_v2_coco.engine
+jetson-inference/
+catkin_ws/src/jetbot_ros/
+catkin_ws/src/ros_deep_learning/

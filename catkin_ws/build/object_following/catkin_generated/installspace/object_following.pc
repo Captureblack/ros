@@ -1,0 +1,8 @@
+prefix=/home/jetbot/workspace/catkin_ws/install
+
+Name: object_following
+Description: Description of object_following
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
